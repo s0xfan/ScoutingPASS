@@ -107,22 +107,6 @@ var config_data = `
       "showUndo": "false",
       "shape": "circle 12 black red true"
     },
-    { "name": "Feeder Count<br>(Fed another bot)",
-      "code": "tfc",
-      "type": "counter"
-    },
-    { "name": "Was Fed<br>Game Pieces",
-      "code": "wf",
-      "type": "bool"
-    },
-    { "name": "Was Defended",
-      "code": "wd",
-      "type": "bool"
-    },
-    { "name": "Who Defended this bot",
-      "code": "who",
-      "type": "text"
-    },
     { "name": "Smart Placement<br>(creates Links)",
       "code": "lnk",
       "type": "bool"
